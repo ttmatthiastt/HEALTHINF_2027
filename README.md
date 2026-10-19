@@ -1,6 +1,6 @@
 HEALTHINF 2027 – Research Appendix
 
-This repository contains the materials used for my research project on extracting Barthel ADL and Lawton IADL functional scores from geriatric consultations using an LLM.
+This repository contains the materials used for the HEALTHINF 2027 research project on extracting Barthel ADL and Lawton IADL functional scores from geriatric consultations using LLMs.
 
 Repository contents
 
